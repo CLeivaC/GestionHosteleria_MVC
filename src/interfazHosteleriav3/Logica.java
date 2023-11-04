@@ -23,6 +23,7 @@ public class Logica {
 	
 	////////////////////////////////////////////////////////////////////////////////////////////////////////
 	
+	
 	private boolean comprobacionNombre() {
 		boolean comprobar = false;
 		 Pattern pat = Pattern.compile("[a-zA-Z]*");
